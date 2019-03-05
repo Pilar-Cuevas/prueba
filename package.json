@@ -1,0 +1,13 @@
+{
+  "name": "prueba-cypress",
+  "version": "1.0.0",
+  "description": "Prueba de cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "pilar cuevas",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.0.0"}
+}
